@@ -12,6 +12,12 @@
     flex: 1 1 200px;
 }
 
+.card.popular {
+    box-shadow: 3px 3px 15px 2px #68ace8;
+    border: 1px solid #93e1ff;
+    border-top: 8px solid #3a81cc;
+}
+
 .card hr {
     width: 95%;
     border-bottom: 1px solid #b9b9b9a3;
